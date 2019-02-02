@@ -1,1 +1,1 @@
-I am file #2 in master branch.
+I am file #2 in master branch. I am a change from feature-c.
